@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="viewName">Name *:</string>
+    <string name="fullName">Full Name</string>
+    <string name="viewNumber">Contact Number *:</string>
+    <string name="Number">Phone No.</string>
+    <string name="viewSize">Group Size *:</string>
+    <string name="viewDate">Please Select Reservation Date:</string>
+    <string name="viewTime">Please Select Time of Reservation:</string>
+    <string name="viewTable">Please Select Preferred Seat Area:</string>
+    <string name="Indoor">Indoor Area</string>
+    <string name="Outdoor">Outdoor Area</string>
+    <string name="Submit">Submit</string>
+    <string name="Reset">Reset</string>
+</resources>
